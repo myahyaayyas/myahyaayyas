@@ -9,7 +9,6 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 
 <p align="left">
 <a href="">
-  <img height="180em" src=""/>
-  <img height="180em" src=""/>
+  
 </a>
 </p>
